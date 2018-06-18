@@ -22,3 +22,12 @@ voice implementation is also planned.
 
 ## License
 This project is licensed under the MIT License - see the License.md file for details
+
+
+## Notice
+
+No copyright is intended for the name Poe.
+This name is a reference from a scifi tv series Altered Carbon where the AI "Poe" exists:
+http://altered-carbon.wikia.com/wiki/Poe
+Originally the name is derived from a famous writer Edgard Allan Poe:
+https://en.wikipedia.org/wiki/Edgar_Allan_Poe
