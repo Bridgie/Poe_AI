@@ -21,7 +21,7 @@ On top of that twitter API may be used to feed more data and produce more natura
 voice implementation is also planned.
 
 ## License
-This project is licensed under the MIT License - see the License.md file for details
+This project is licensed under the GNUv3 License - see the License.md file for details
 
 
 ## Notice
